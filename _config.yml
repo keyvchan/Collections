@@ -19,7 +19,7 @@ author:
 # URL settings
 url: "https://keyvchan.github.io" #
 baseurl: "/" # leave blank if not wishd
-permalink: "https://keyvchan.github.io/"
+permalink: "https://keyvchan.github.io"
 permalink: pretty 
 
 
